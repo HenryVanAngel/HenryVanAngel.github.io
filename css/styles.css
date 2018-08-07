@@ -1,0 +1,11 @@
+#menu{
+	display: flex;
+	justify-content: space-around;
+}
+.cripto-texto{
+	display: flex;
+}
+.logo-bit{
+	display: flex;
+
+}
